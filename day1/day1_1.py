@@ -1,4 +1,4 @@
-filename = "./day1/inp_first.txt"
+filename = "./day1/inp.txt"
 sum = 0
 first_list = []
 second_list = []
